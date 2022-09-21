@@ -8,7 +8,7 @@ Very basic calculator application created by Java Swing.
 1) Press the Fork button (located on the top right corner of the page) to save copy of this project on your account.
 
 2) Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
-   git clone https://github.com/AdishiSood/Java-Calculator
+   gh repo clone ayushthepro111/Calculator-in-java
 
  # Contributing 💡
 If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed. If you find any issue just put it in the repository issue section.
